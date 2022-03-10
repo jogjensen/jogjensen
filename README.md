@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jogjensen
-- 👀 I’m interested in Flutter/Dart + C# + HTML + CSS + KALI Linux 
+- 👀 I’m interested in Flutter/Dart + C# + HTML + CSS 
 - 🌱 I’m currently learning Flutter/dart
 - 💞️ I’m looking to collaborate on my own project
 
