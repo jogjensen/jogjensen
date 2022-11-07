@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jogjensen
-- 👀 I’m interested in Flutter/Dart + C# + HTML + CSS 
-- 🌱 I’m currently learning Flutter/dart
+- 👀 I’m interested in Cyberserurity
+- 🌱 I’m currently learning how hardware works
 - 💞️ I’m looking to collaborate on my own project
 
 <!---
